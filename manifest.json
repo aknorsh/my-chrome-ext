@@ -1,0 +1,10 @@
+{
+  "name": "My Extension",
+  "description": "My Extension",
+  "version": "0.1",
+  "manifest_version": 3,
+  "permissions": ["activeTab", "scripting"],
+  "action": {
+    "default_popup": "src/index.html"
+  }
+}
